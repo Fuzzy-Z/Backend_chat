@@ -47,7 +47,7 @@ group :development, :test do
 # Criptografa as senhas
   gem "bcrypt"
 # Geração e Validação de tokens (LIB)
-  gem "jwt", "~>2.6"
+  gem "jwt", "~>3.1"
 
   gem "rack-cors"
 end
